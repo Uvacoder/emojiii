@@ -1,5 +1,5 @@
 # emoji searcher
-
+--
 A slim and modern emoji searcher, built with [Poi](https://poi.js.org).
 
 ## Folder structure
